@@ -1,0 +1,15 @@
+C:\Users\Kyle\source\repos\They Are Billions Modder\bin\Debug\netcoreapp3.1\They Are Billions Modder.exe
+C:\Users\Kyle\source\repos\They Are Billions Modder\bin\Debug\netcoreapp3.1\They Are Billions Modder.deps.json
+C:\Users\Kyle\source\repos\They Are Billions Modder\bin\Debug\netcoreapp3.1\They Are Billions Modder.runtimeconfig.json
+C:\Users\Kyle\source\repos\They Are Billions Modder\bin\Debug\netcoreapp3.1\They Are Billions Modder.runtimeconfig.dev.json
+C:\Users\Kyle\source\repos\They Are Billions Modder\bin\Debug\netcoreapp3.1\They Are Billions Modder.dll
+C:\Users\Kyle\source\repos\They Are Billions Modder\bin\Debug\netcoreapp3.1\They Are Billions Modder.pdb
+C:\Users\Kyle\source\repos\They Are Billions Modder\obj\Debug\netcoreapp3.1\They Are Billions Modder.csprojAssemblyReference.cache
+C:\Users\Kyle\source\repos\They Are Billions Modder\obj\Debug\netcoreapp3.1\They_Are_Billions_Modder.Form1.resources
+C:\Users\Kyle\source\repos\They Are Billions Modder\obj\Debug\netcoreapp3.1\They Are Billions Modder.csproj.GenerateResource.cache
+C:\Users\Kyle\source\repos\They Are Billions Modder\obj\Debug\netcoreapp3.1\They Are Billions Modder.AssemblyInfoInputs.cache
+C:\Users\Kyle\source\repos\They Are Billions Modder\obj\Debug\netcoreapp3.1\They Are Billions Modder.AssemblyInfo.cs
+C:\Users\Kyle\source\repos\They Are Billions Modder\obj\Debug\netcoreapp3.1\They Are Billions Modder.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\source\repos\They Are Billions Modder\obj\Debug\netcoreapp3.1\They Are Billions Modder.dll
+C:\Users\Kyle\source\repos\They Are Billions Modder\obj\Debug\netcoreapp3.1\They Are Billions Modder.pdb
+C:\Users\Kyle\source\repos\They Are Billions Modder\obj\Debug\netcoreapp3.1\They Are Billions Modder.genruntimeconfig.cache
